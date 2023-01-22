@@ -3,12 +3,12 @@
 ## Lista de melhores jogadores de futebol ##
 
 1. Messi
-2. Cristiano Ronaldo
-3. Haaland
-4. Neymar
-5. Pelé
-6. Maradona
-7. Ronaldinho Gaucho
-8. Robert Lewandowski
-9. Mbappe
-10. Suarez
+1. Cristiano Ronaldo
+1. Haaland
+1. Neymar
+1. Pelé
+1. Maradona
+1. Ronaldinho Gaucho
+1. Robert Lewandowski
+1. Mbappe
+1. Suarez
